@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photographers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 22:30:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jul 2015 22:30:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photographers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Create The Popular Matte Look in Lightroom | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>How to Create The Popular Matte Look in Lightroom | Fstoppers</h1><p>While in Las Vegas attending the annual WPPI conference I stopped in and spent some time at the print competition. There I repeatedly noticed that many of the prints had a matte type of look to them. Now part of this is the choice of paper they print on, but also how the photos is processed plays a big part as well.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/04/2013-04-10_0003.jpg"></article>]]></description>
+            <link>https://fstoppers.com/post-production/how-create-popular-matte-look-lightroom-3280</link>
+            <guid isPermaLink="false">966f06b0-bc35-4eed-b943-ea2f8b4382d7</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Simple Way to Change the Color of the Sky in Camera]]></title>
             <description><![CDATA[<article><h1>A Simple Way to Change the Color of the Sky in Camera</h1><p>Have you ever been excited to photograph someone around sunset only to discover that Mother Nature wasn't playing nice? Instead of a beautiful sunset, you were dealt a grey drab sky as your backdrop. There is a way and it's actually quite simple to pull off.</p><img src="http://www.slrlounge.com/wp-content/uploads/2014/04/Enhancing-the-color-of-the-sky-using-gels.jpg"></article>]]></description>
