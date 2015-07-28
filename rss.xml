@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/photographers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 22:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 22:31:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photographers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Favorite New Photography Tool When I Travel | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>My Favorite New Photography Tool When I Travel | Fstoppers</h1><p>I have had the privilege of traveling all over the world as a photographer and love shooting photos of locals. They always light up seeing the images of themselves. However, I realized that while they loved seeing the images on the back of my camera, I was missing something important.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/07/2013-07-17_00011.jpg"></article>]]></description>
+            <link>https://fstoppers.com/originals/my-favorite-new-photography-tool-when-i-travel-2749</link>
+            <guid isPermaLink="false">f4a2ddb2-ad3e-4469-8905-2ab8fba2f078</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learn To Shoot Proper White Balance using Kelvin Temps | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Learn To Shoot Proper White Balance using Kelvin Temps | Fstoppers</h1><p>Over the years, I have taught numerous workshops for photographers and during those classes one of the most appreciated techniques that we discuss is shooting proper white balance using Kelvin temperatures. If it is something new to you, it might at first seem a bit overwhelming but I guarantee it is actually quite simple to learn.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/05/Fstoppers-White-Balance-Shooting-in-Kevin-1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://fstoppers.com/post-production/how-create-popular-matte-look-lightroom-3280</link>
             <guid isPermaLink="false">966f06b0-bc35-4eed-b943-ea2f8b4382d7</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Simple Way to Change the Color of the Sky in Camera]]></title>
-            <description><![CDATA[<article><h1>A Simple Way to Change the Color of the Sky in Camera</h1><p>Have you ever been excited to photograph someone around sunset only to discover that Mother Nature wasn't playing nice? Instead of a beautiful sunset, you were dealt a grey drab sky as your backdrop. There is a way and it's actually quite simple to pull off.</p><img src="http://www.slrlounge.com/wp-content/uploads/2014/04/Enhancing-the-color-of-the-sky-using-gels.jpg"></article>]]></description>
-            <link>http://www.slrlounge.com/simple-way-change-color-sky-camera/</link>
-            <guid isPermaLink="false">566546db-a93f-4ab5-9d1c-4e50c7170632</guid>
-            <pubDate>Tue, 28 Jul 2015 19:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
