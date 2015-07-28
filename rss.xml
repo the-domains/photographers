@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/photographers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 22:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 22:31:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photographers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Size Your Images So They Show Their Best on Facebook | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>How To Size Your Images So They Show Their Best on Facebook | Fstoppers</h1><p>Just about every day I read a comment from a photographer complaining about Facebook making their images look terrible. There are hundreds of websites that have done tests and posted results to show what they feel is the best resolution to post your images to Facebook.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/09/Fstoppers-How-To-Size-Your-Photos-Best-for-Facebook-Trevor-Dayley-1.jpg"></article>]]></description>
+            <link>https://fstoppers.com/wedding/how-size-your-images-so-they-show-their-best-facebook-2993</link>
+            <guid isPermaLink="false">232d8ab6-c90d-45b3-bc69-5b3c363c9380</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[26.5 Tips On Becoming The Perfect Second Shooter | Fstoppers]]></title>
             <description><![CDATA[<article><h1>26.5 Tips On Becoming The Perfect Second Shooter | Fstoppers</h1><p>As a wedding photographer I am always on the hunt for that perfect second shooter. Over the last 4 years I have shot 120+ weddings and worked with over 70 different second shooters. Most of them have been fantastic but I have always thought it would be nice to have a list of second shooter tips I could send them before the wedding day.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/07/Fstoppers-26-Tips-for-Second-Shooters-Trevor-Dayley.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Quick Fix To Making Your RAW Photos Look Better | Fstoppers</h1><p>Shooting photos in RAW is the choice of most professionals. Unfortunately, we all know that once you import those photos into Lightroom, the vibrant images viewed on your camera LCD suddenly look flat. What if there were a quick fix that would make your RAW images better replicate what you see on your camera?</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/05/2013-05-01_003.jpg"></article>]]></description>
             <link>https://fstoppers.com/post-production/quick-fix-making-your-raw-photos-look-better-3298</link>
             <guid isPermaLink="false">41bfe2fa-32a0-4d3f-916f-4adcbadb3906</guid>
-            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Easily Time Sync Your Files in Lightroom | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>How to Easily Time Sync Your Files in Lightroom | Fstoppers</h1><p>Have you ever been on a shoot in which you used two cameras or had an assistant shooting with you, imported the files into Lightroom and then realized they were not time synced properly? If so, this quick 5-minute video is for you.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/04/Fstoppers-Lightroom-Time-Sync.jpg"></article>]]></description>
-            <link>https://fstoppers.com/video/how-easily-time-sync-your-files-lightroom-3271</link>
-            <guid isPermaLink="false">7ab4f2aa-538c-4a53-846e-2da545255bd6</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
         </item>
     </channel>
