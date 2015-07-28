@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/photographers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 22:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 22:31:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photographers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Lightroom Tip That Your Clients Will Thank You For Learning | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>Top Lightroom Tip That Your Clients Will Thank You For Learning | Fstoppers</h1><p>If you are photographing people than you understand the importance of sharpening areas of your images while masking out other parts and keeping them soft. For example, I love to sharpen the eyes, the lips, the hair, but don't want to bring out any unnecessary detail on the cheeks.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/10/fstoppers-lightroom-sharpening-masking.jpg"></article>]]></description>
+            <link>https://fstoppers.com/originals/top-lightroom-tip-your-clients-will-thank-you-learning-39531</link>
+            <guid isPermaLink="false">5a90b909-526f-4480-87c7-a6aa3dcf1b65</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another Useful Lightroom Tip Your Mom Never Taught You | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Another Useful Lightroom Tip Your Mom Never Taught You | Fstoppers</h1><p>Adobe Lightroom is a program full of many different little tips and tricks just waiting to be discovered. In this short video I show you one of my favorites which allows you to apply a selective focus technique to your photo without having to open it in Photoshop.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/09/aaa_trevordayley-0017_0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Five Great Ways To Customize Your 5D Mark III | Fstoppers</h1><p>You finally got that Canon 5D Mark III camera you have been desiring and now you are trying to figure out how best to take advantage of all it's great new features. Here are five ways I have customized my camera to best fit my needs while shooting weddings, events and portraits.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/12/5D-Mark-III-Customizations-Fstoppers-Trevor-Dayley-15.jpg"></article>]]></description>
             <link>https://fstoppers.com/other/five-great-ways-customize-your-5d-mark-iii-8396</link>
             <guid isPermaLink="false">ec0bcc63-fdd1-4d5c-94da-b989d949e005</guid>
-            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple But Great Tip To Naming Your Photography Folders | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>Simple But Great Tip To Naming Your Photography Folders | Fstoppers</h1><p>There is no wrong or right way of naming the folders on your computer. It is really just a matter of preference and what works best in your workflow. Having been doing this for a number of years though I have experimented with quite a few different ways and this is by far the one I like best.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/09/Fstoppers-How-to-name-your-photography-folders-for-best-workflow-featured.jpg"></article>]]></description>
-            <link>https://fstoppers.com/post-production/simple-great-tip-naming-your-photography-folders-2913</link>
-            <guid isPermaLink="false">16fd91d2-5383-4430-9daf-f9d32e276e62</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
         </item>
     </channel>
